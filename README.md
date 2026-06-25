@@ -4,6 +4,7 @@
 
 Link to VGA Playground: https://vga-playground.com/?repo=https://github.com/alexandercoabad/PhilippineFlag
 
+<img width="1902" height="1288" alt="image" src="https://github.com/user-attachments/assets/4fad4b3b-0ad5-4ec5-b3f9-a6e4049b0bd3" />
 
 
 ## What is Tiny Tapeout?
